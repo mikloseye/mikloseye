@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikloseye
-- 👀 I’m interested in learning programming and designing full service websites. 
-- 🌱 I’m currently learning React and PHP.
+- 👀 I’m an aspiring web designer who loves to code and design web pages and applications. I love to play guitar and am an avid gamer! 
+- 🌱 I’m currently learning frontend libraries like React, SASS and Redux.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me : mikloseye@gmail.com
 
